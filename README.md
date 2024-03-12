@@ -23,7 +23,7 @@ imprimir(SOMA);
 Ao final do processamento, qual será o valor da variável SOMA?
 ````
 
-### [Solução Soma](https://github.com/Letisinha/DesafioTarget/blob/main/Scripts/Soma.py) 
+### [Solução Soma](https://github.com/Letisinha/DesafioTarget/blob/main/Scripts/Soma.py) = 91
 
 ---------------------------------------------------
 
